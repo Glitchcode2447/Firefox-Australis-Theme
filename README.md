@@ -23,7 +23,7 @@ Curently there is a working version for 118 and above in the [dev branch](https:
 1. Download the `userChrome.css` file and place it in your `chrome` folder.
 1. Restart Firefox and you're done.
 
-Added note: The current default theme for Firefox does not match the design anymore, it is recommended that you use the [Proton Theme](https://addons.mozilla.org/en-US/firefox/addon/firefox-proton/) as that is the CSS that this was based on.
+Added note: The current default theme for Firefox does not match the design anymore, it is recommended that you use the [Proton Theme](https://addons.mozilla.org/en-US/firefox/addon/firefox-proton/) as that is the theme that this was based on.
 
 ## Something's Broken
 Feel free to submit an issue and I'll try to fix it as soon as I can.
