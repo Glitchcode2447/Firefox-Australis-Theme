@@ -417,4 +417,7 @@
   .tab-label-container{
     margin-top: -2px !important;
   }
+  .tab-background:is([selected], [multiselected]) {
+    outline-color: rgba(0,0,0,0) !important;
+  }
 }
