@@ -11,8 +11,6 @@ I wanted to be able to use a more familiar UI for Firefox, so I branched this pr
 ## ⚠ Support note ⚠:
 I will be updating this CSS for the latest version of Firefox Release and Firefox ESR 115, if you want to install it on older versions feel free to use [Wilfredwee's Version](https://github.com/wilfredwee/photon-australis)
 
-Curently there is a working version for 118 and above in the [dev branch](https://github.com/Glitchcode2447/Firefox-Australis-Theme/tree/dev), feel free to add any issues that you find.
-
 ### How to Install:
 1. In the Firefox URL bar, type `about:config`.
 1. Set `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
